@@ -1,0 +1,14 @@
+{
+  "build_script": "react-scripts build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "TheOmegaFett/RPS-Card-Game",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "4308fbec39c29169fe0dd29912740041df33508f"
+}
